@@ -22,7 +22,7 @@ int main(int argc, char *argv[])
 		printf("Usage: epiaknet <IP Address or hostname>\n\n");
 		printf("Epiaknet is a simple network tool in order to discovery ports opened.\n\n");
 		printf("Example: epiaknet 192.168.0.1\n\n");
-		printf("Epiaknet V 0.0.1 - A network mapper\n");
+		printf("Epiaknet V 0.001 - A network mapper\n");
 	}
 
 	return(0);
